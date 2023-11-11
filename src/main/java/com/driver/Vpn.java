@@ -11,6 +11,7 @@ public class Vpn {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Vpn.class, args);
+		System.out.println("FirstCommit");
 	}
 
 }
